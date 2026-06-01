@@ -42,3 +42,5 @@ coverage
 
 # Design docs (local only)
 /docs/
+outline.md
+ui-refinement.md
