@@ -24,7 +24,7 @@ npm install
 npm run dev
 ```
 
-Up and running here -> [filterbench.app](filterbench.app)
+Up and running here -> [filterbench.app](https://filterbench.app)
 
 ## Stack
 
